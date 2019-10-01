@@ -12,7 +12,7 @@ div#main {
 }
 a {
   background: transparent;
-  color: maroon;
+  color: purple;
   text-decoration: underline;
   font-weight: bold;
 }
@@ -27,9 +27,9 @@ h1 {
 h1.title {
   margin: 0 0 1em;
   padding: 10px;
-  background-color: orange;
+  background-color: green;
   color: white;
-  border-bottom: 4px solid gold;
+  border-bottom: 4px solid violet;
   font-size: 2em;
   font-style: normal;
 }
@@ -42,7 +42,7 @@ table#movies {
 table#movies th {
   border: 2px solid white;
   font-weight: bold;
-  background-color: wheat;
+  background-color: thistle;
 }
 table#movies th, table#movies td {
   padding: 4px;
@@ -61,5 +61,5 @@ form label {
 }
 
 table#movies th.hilite {
-  background-color: yellow;
+  background-color: powderblue;
 }
